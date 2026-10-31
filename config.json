@@ -1,0 +1,98 @@
+{
+  "code": "KIMPO",
+  "title": "SMASH KIMPO",
+  "school": "김포대",
+  "fullName": "김포대학교",
+  "campusName": "김포대학교 월곶캠퍼스",
+  "tagline": "김포대를 부셔 (시험기간 스트레스 해소)",
+  "description": "김포대학교 월곶캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 김포대학교 월곶캠퍼스 3D 화면과 SMASH KIMPO 제목",
+  "url": "https://hong-iron.github.io/SMASH-KIMPO/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1153633805
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1153633803",
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편(104번지) 대지 땅에 있는 3층 상가로, 대장 용도가 제2종근린생활시설이고 학교 이름이 없다."
+    },
+    {
+      "id": "way/1153633807",
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 110번지 임야 땅(포내리 118-46)에 있는 이름 없는 민간 건물이라 학교 건물이 아니다."
+    },
+    {
+      "id": "way/1153633806",
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 110번지 임야 땅(포내리 118-46)에 있는 이름 없는 민간 건물이라 학교 건물이 아니다."
+    },
+    {
+      "id": "way/1153633809",
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 110번지 임야 땅(포내리 118-5)에 있는 이름 없는 민간 건물이라 학교 건물이 아니다."
+    },
+    {
+      "id": "way/1153633802",
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 100번지에 2003년 사용승인된 1층 근린생활시설로, 학교 땅이 아니고 학교 이름도 없다."
+    },
+    {
+      "id": "way/1153633804",
+      "n": "선배니까",
+      "why": "학교 건물 아님 — 학교 앞 길 건너 식당 '선배니까'(김포대학로 106)로, 학교가 세워지기 전인 1984년에 승인된 근린생활시설이다."
+    },
+    {
+      "id": "way/1153633808",
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 110번지 임야 땅(포내리 118-46)에 있는 작은 민간 건물이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        37.7281837,
+        126.5460968
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 논 땅(포내리 110)에 대장만 있는 이름 없는 4층 건물로, 학교 건물 목록에 없다."
+    },
+    {
+      "at": [
+        37.7283869,
+        126.5470466
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 김포대학로 맞은편 임야 땅(포내리 118-5)에 대장만 있는 이름 없는 작은 건물로, 10번 건물에 붙은 민간 건물이다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "brick",
+      "wall": "#92584b",
+      "glass": "#3d7378",
+      "frame": "#e0e2df"
+    },
+    "HOPE 2020 CENTER": {
+      "style": "glass",
+      "wall": "#8a5044",
+      "glass": "#2c5a6e",
+      "frame": "#d6d7d3"
+    },
+    "변안나기념관": {
+      "style": "stone",
+      "wall": "#e3e2de",
+      "glass": "#4e5d5a",
+      "frame": "#9d6150"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
