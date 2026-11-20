@@ -1,0 +1,34 @@
+{
+ "region": "경기 김포시 월곶면",
+ "nameEn": "Kimpo University Wolgot Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 306,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "ANYANG-GANGHWA",
+   "campus": "안양대학교 강화캠퍼스",
+   "km": 9.0
+  },
+  {
+   "code": "WOONGJI",
+   "campus": "웅지세무대학교",
+   "km": 19.4
+  },
+  {
+   "code": "DGU-BIOMEDI",
+   "campus": "동국대학교 바이오메디캠퍼스",
+   "km": 23.6
+  },
+  {
+   "code": "KIWU",
+   "campus": "경인여자대학교",
+   "km": 25.5
+  },
+  {
+   "code": "GINUE",
+   "campus": "경인교육대학교 인천캠퍼스",
+   "km": 26.2
+  }
+ ]
+}
